@@ -102,7 +102,7 @@ body{
                     </div>
                 </div>
 
-                <h4 style="color: white;">NEW<span style="color:red;"> RELEASES</span><h4>
+                <h4 style="color: white;">NEW RELEASES<h4>
             <div class="row" >
 
                 
@@ -202,6 +202,6 @@ body{
 </body>
 
 </html>
-<a href="index.php" class="btn btn-outline-secondary ml-3" text-align: center >back to home</a>
+<a href="index.php" class="btn btn-outline-secondary ml-3" class="w3-button w3-black" text-align: center >back to home</a>
 
                 
