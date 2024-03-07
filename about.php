@@ -37,7 +37,7 @@ body, html {
     </div>
 
 
-    <a href="index.php" class="btn btn-outline-secondary ml-3" text-align: center >back to home</a>
+    <a href="index.php"   class="w3-button w3-black" text-align: center >back to home</a>
   </div>
 </div>
 

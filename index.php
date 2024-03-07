@@ -65,16 +65,10 @@ body{
                     </ul>
                 </li>
                 <li>
-                    <a href="#pageSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                    <a href="about.php">
                         <i class="fas fa-copy"></i>
                         Pages
                     </a>
-                    <ul class="collapse list-unstyled" id="pageSubmenu">
-                        <li>
-                            <a href="about.php">About COSMETICS</a>
-                        </li>
-                        
-                    </ul>
                 </li>
                 <li>
                     <a href="accounts.php">
@@ -94,7 +88,7 @@ body{
 
             <ul class="list-unstyled CTAs">
                 <li>
-                    <a href="https://www.facebook.com/" class="download">Facebook</a>
+                    <a href="https://www.facebook.com/groups/allaboutcosmeticsphilippines" class="download">Facebook</a>
                 </li>
 
             <li>
