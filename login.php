@@ -174,6 +174,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             ?>
 
             <form action="login.php" method="post">
+                 <input type="submit" class="w3-button w3-black" value="LOGIN HERE">
                 <div class="form-group">
                     <label>Username</label>
                     <input type="text" name="username" class="form-control <?php echo (!empty($username_err)) ? 'is-invalid' : ''; ?>" value="<?php echo $username; ?>">
